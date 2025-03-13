@@ -17,23 +17,19 @@ The **Superstore Data Analysis** aims to provide valuable insights to a retail g
 
 ## Top Selling Products
 The following are the **top 5 best-selling products** based on sales volume:
-```text
 - Canon imageCLASS 2200 Advanced Copier
 - Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind
 - Cisco TelePresence System EX90 Videoconferencing Unit
 - HON 5400 Series Task Chairs for Big and Tall
 - GBC DocuBind TL300 Electric Binding System
-```
 
 ## Most Profitable Products
 The top **5 most profitable products**, contributing the most to net revenue:
-```text
 - Canon imageCLASS 2200 Advanced Copier
 - Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind
 - Hewlett Packard LaserJet 3310 Copier
 - Canon PC1060 Personal Laser Copier
 - HP Designjet T520 Inkjet Large Format Printer - 24" Color
-```
 
 ## Loss Analysis
 Despite strong sales, **Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind** generates losses in the **Central Region**, as the company applies an **80% discount on 2 out of 3 sold units**.
@@ -43,11 +39,9 @@ The **overall trend** of the company is **profitable**, but fluctuations occur d
 
 ## Top Performing Locations
 The most successful sales locations include:
-```text
 - **Top Cities:** New York City, Los Angeles, Seattle, San Francisco, Detroit
 - **Top States:** California, New York
 - **Top Region:** West
-```
 
 ## Usage
 Follow these steps to run the analysis:
