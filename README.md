@@ -43,21 +43,4 @@ The most successful sales locations include:
 - **Top States:** California, New York
 - **Top Region:** West
 
-## Usage
-Follow these steps to run the analysis:
-```bash
-# Clone the repository
-git clone <repository_url>
-
-# Navigate to the project directory
-cd data-insights
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis script
-python analysis.py
-```
-
-This structured approach provides an **actionable business strategy** based on data-driven insights.
 
